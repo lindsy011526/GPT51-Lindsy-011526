@@ -1,0 +1,11 @@
+streamlit
+openai
+google-generativeai
+anthropic
+requests
+PyYAML
+pypdf
+pandas
+plotly
+tabulate
+python-dotenv
